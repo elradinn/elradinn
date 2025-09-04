@@ -1,8 +1,6 @@
-# John Alfred Alfonso
+# 👋 Hi there
 
-**`Full Stack Developer`**
-
-I'm a developer with experience in full stack development of user-focused applications. Proficient in modern frameworks and tools, with strong ability to learn quickly and adapt to project requirements.
+I'm a **`web developer`** with experience in full-stack development of user-focused applications. Skilled in building responsive interfaces and efficient backends, with a focus on usability, scalability, and maintainable code.
 
 #
 
