@@ -1,10 +1,9 @@
-# 👋 Hi there
-
-I'm a **`web developer`** with experience in full-stack development of user-focused applications. Skilled in building responsive interfaces and efficient backends, with a focus on usability, scalability, and maintainable code.
+### Hi there 👋
+#### Full-stack Developer | Laravel & React / Next.js | Learning Python & AI/ML
 
 #
 
-### 🧰 Languages and Tools
+### 🧰 Tech Stack
 <p>
   <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
   <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
