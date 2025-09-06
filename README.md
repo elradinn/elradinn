@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a full-stack developer working with Laravel and React (or Next.js), currently learning Python and exploring AI/ML through hands-on projects.
+I’m a full-stack developer working with Laravel + React and Next.js, currently learning Python and exploring AI/ML through hands-on projects.
 
 #
 
